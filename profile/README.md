@@ -22,7 +22,7 @@ We’re here to hack smart, laugh hard, and maybe accidentally summon a new AI o
 ---
 
 ## 🧙‍♀️ Our Tech Stack
-- **Frontend:** React / Vite / Tailwind  
+- **Frontend:** Angular  
 - **Backend:** Java / SpringBoot  
 - **Magic Ingredients:** Caffeine ☕ + Team Spirit 💜  
 
